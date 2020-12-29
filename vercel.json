@@ -10,6 +10,6 @@
         { "src": "/docs", "dest": "app.py" },
         { "src": "/rs/(.*)", "dest": "app.py" },
         { "src": "/openapi.json", "dest": "app.py" },
-        { "src": "static/styles.css", "dest": "static/styles.css"}
+        { "src": "/static/styles.css", "dest": "static/styles.css"}
     ]
 }
